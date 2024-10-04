@@ -29,6 +29,9 @@ Here are the projects I've completed so far:
 3. **Password Generator**  
    Description: A password generator that creates a random password based on the specified number of characters. Users can adjust the range for the length of the password, making it flexible and user-friendly.
 
+4. **Currency Converter**  
+   Description: A Currency Converter project allows users to convert values between different currencies in real-time by fetching exchange rates from an API. It provides a user-friendly interface to input amounts and view the equivalent value in the desired currency.
+
 ## Technologies Used
 
 - React
@@ -42,35 +45,49 @@ To run any of the projects locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/react-work.git
+   ```
 2. Navigate into the project directory:
    ```bash
    cd react-work
+   ```
 3. Install the dependencies:
    ```bash
    npm install
+   ```
 4. Start the development server:
    ```bash
    npm start
+   ```
+
 ## Contributing
+
 If you'd like to contribute to any of the projects in this repository.
 Fork the repository.
 Create a new branch:
+
 ```bash
 git checkout -b feature-branch
 ```
+
 Make your changes and commit them:
+
 ```bash
 git commit -m "Add some feature"
 ```
+
 Push the changes to your branch:
+
 ```bash
 git push origin feature-branch
 ```
+
 Open a pull request, and I will review it.
 
 ## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
+
 Thanks to freeCodeCamp.org for providing excellent learning resources.
 Special thanks to the React and open-source community for their guidance and support.
