@@ -21,13 +21,13 @@ This repository serves as my personal portfolio for various React applications. 
 Here are the projects I've completed so far:
 
 1. **Background Color Changer**  
-   Description: A simple application that allows users to change the background color of the page using a color picker.
 
 2. **Counter Application**  
-   Description: An interactive counter application where users can increase, decrease, and reset a counter. This project helped me understand how to manage state effectively in React.
 
-3. **Password Generator**  
-   Description: A password generator that creates a random password based on the specified number of characters. Users can adjust the range for the length of the password, making it flexible and user-friendly.
+3. **Password Generator**
+   
+4. **Currency Converter**
+   
 
 ## Technologies Used
 
